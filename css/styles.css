@@ -73,7 +73,6 @@ main {
 .menu-main {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .logo {
@@ -118,7 +117,6 @@ main {
   background-color: #404bbf;
   content: "";
   display: block;
-  transform: translateY(20px);
   content: "";
   position: absolute;
   left: 0;
@@ -493,8 +491,8 @@ main {
   align-items: baseline;
 }
 .icon-footer {
-  width: 40px;
-  height: 40px;
+  width: 24px;
+  height: 24px;
   position: relative;
   display: flex;
   justify-content: center;
